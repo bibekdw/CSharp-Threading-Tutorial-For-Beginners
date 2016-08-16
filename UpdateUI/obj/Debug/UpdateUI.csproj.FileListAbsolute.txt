@@ -1,0 +1,10 @@
+C:\Example\Tutorials\UpdateUI\bin\Debug\UpdateUI.exe.config
+C:\Example\Tutorials\UpdateUI\bin\Debug\UpdateUI.exe
+C:\Example\Tutorials\UpdateUI\bin\Debug\UpdateUI.pdb
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.csprojResolveAssemblyReference.cache
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.Form1.resources
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.Properties.Resources.resources
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.csproj.GenerateResource.Cache
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.exe
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.pdb
+C:\Example\Tutorials\UpdateUI\obj\Debug\UpdateUI.Form2.resources

@@ -1,0 +1,6 @@
+C:\Example\Tutorials\PlainOldThread\bin\Debug\PlainOldThread.exe.config
+C:\Example\Tutorials\PlainOldThread\bin\Debug\PlainOldThread.exe
+C:\Example\Tutorials\PlainOldThread\bin\Debug\PlainOldThread.pdb
+C:\Example\Tutorials\PlainOldThread\obj\Debug\PlainOldThread.csprojResolveAssemblyReference.cache
+C:\Example\Tutorials\PlainOldThread\obj\Debug\PlainOldThread.exe
+C:\Example\Tutorials\PlainOldThread\obj\Debug\PlainOldThread.pdb
